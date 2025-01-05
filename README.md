@@ -36,4 +36,24 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
 ![image](https://github.com/user-attachments/assets/fcdc7284-0780-4d2b-b13c-eb01e433fbf2)
 
-- Clicked on the pre-built file in my file directory it automatically downloads it to VirtualBox 
+- Extracted kali pre build from the 7zip folder with winrar
+
+  ![image](https://github.com/user-attachments/assets/060d8af2-a6da-44a4-8f51-102b8cd676bf)
+
+- Make sure to double click the one with the .vbox file extension since it was made specifically for virtual box
+
+  ![image](https://github.com/user-attachments/assets/c38c1f23-79ab-4142-a0e2-f4cd3b7d1aea)
+
+- Time to settup kali linux through virtual lab
+- Click on the kali linux demo and then click the start tab
+
+  ![image](https://github.com/user-attachments/assets/e836caf2-781b-4070-b5e7-1c33011aeeb0)
+
+- The default username is kali
+- the default password is kali
+- Now kali linux is up and running
+
+  ![image](https://github.com/user-attachments/assets/2bf50072-cfea-4ba6-ad10-b841a170fcb6)
+
+  
+
