@@ -83,8 +83,30 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
    ![image](https://github.com/user-attachments/assets/a832f07a-8481-4a2a-bca3-d3992d5312d7)
 
 - checking command prompt to see if my ip address is working
+- Open command prompt and type in ipconfig to check if your ip address is set
 
-  ![image](https://github.com/user-attachments/assets/b32dfe71-72d5-49c6-a8a0-954171835435)
+  ![image](https://github.com/user-attachments/assets/49b454d5-f962-4765-9851-fb39e4e824cb)
+
+- Open the kali linux VM 
+- Right click on the internet option in the upper right hand corner
+- Click on wireless connection
+- Click the gear icon at the bottom left corner
+
+  ![image](https://github.com/user-attachments/assets/1f6eac7c-c00a-43c5-ac90-a56f318b62ca)
+
+- Click on the ipv4 settings
+
+  ![image](https://github.com/user-attachments/assets/c1bc0234-bddb-4a1f-996a-76d88043f4df)
+
+ - Change the method to manual click on add
+ - Change your ip address and your Netmask then click save
+
+   ![image](https://github.com/user-attachments/assets/ffc0122f-cea4-4f6d-bacf-9c238a8b85df)
+
+- Pull up the terminal and type in ipconfig to check if your ip address is settup
+- I changed mine to 192.168.20.25
+
+  ![image](https://github.com/user-attachments/assets/ead60235-8842-41c2-906b-8a0c63354528)
 
 
     
