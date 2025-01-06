@@ -19,7 +19,7 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
 # Steps
 - Download vitualbox
-- Go to the windows page and downloaded the 64 bit versions for the windows media installer
+- Go to the windows page and download the 64 bit versions for the windows media installer
 
 ![image](https://github.com/user-attachments/assets/8f465146-e093-46c6-82c7-3cc155428acb)
 
