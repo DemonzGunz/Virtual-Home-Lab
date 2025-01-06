@@ -60,7 +60,35 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
   ![image](https://github.com/user-attachments/assets/1a2f8078-77a4-4c7f-8438-b399a139ebd0)
 
-- 
+  ![image](https://github.com/user-attachments/assets/cdda5628-5cbb-4914-bf98-df63496e2f65)
+
+  - Assign new ip addresses for both VM's
+  - Run windows vm click on the network and bring up network options
+  - Click on change adapter options
+
+    ![image](https://github.com/user-attachments/assets/e589eebc-2665-422f-9a9c-864bf5b31f68)
+
+  - Right click on ethernet and bring up properties
+
+  ![image](https://github.com/user-attachments/assets/2b7a5b7b-e3ca-40e4-824c-e106085a836a)
+
+
+  -  Click on internet version 4 and the click on properties again
+
+    ![image](https://github.com/user-attachments/assets/6ab7cd01-aaf3-4943-b7ad-f67e838585c9)
+
+ - click on use the following IP address
+ - and assign your ip address and sub net address
+
+   ![image](https://github.com/user-attachments/assets/a832f07a-8481-4a2a-bca3-d3992d5312d7)
+
+- checking command prompt to see if my ip address is working
+
+  ![image](https://github.com/user-attachments/assets/b32dfe71-72d5-49c6-a8a0-954171835435)
+
+
+    
+
 
   
 
