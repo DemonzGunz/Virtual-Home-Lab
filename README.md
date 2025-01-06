@@ -104,10 +104,16 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
    ![image](https://github.com/user-attachments/assets/3984d38a-1636-437d-a20e-7b3a4a676ccb)
 
 
-- Pull up the terminal and type in ipconfig to check if your ip address is settup
+- Pull up the terminal and type in ifconfig to check if your ip address is settup
 - I changed mine to 192.168.20.25
 
   ![image](https://github.com/user-attachments/assets/ead60235-8842-41c2-906b-8a0c63354528)
+
+- Checking to see if i can ping my windows VM from my kali VM
+
+  
+
+- Once this is done you will have and windows and kali linux VM settup with static ip address that are not connected to your host computer
 
 
     
