@@ -111,7 +111,17 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
 - Checking to see if i can ping my windows VM from my kali VM
 
-  
+- Windows system unreachable due to firewall interferance
+
+  ![image](https://github.com/user-attachments/assets/89a1e478-21d9-4c06-a404-fd09df77a85e)
+
+- Testing ping from my windows VM to kali linux
+
+- Having issues connecting to kali linux as well will be testing more to fix these issues
+
+  ![image](https://github.com/user-attachments/assets/27528cd0-3f3e-4e4e-9d86-c277da644e3f)
+
+
 
 - Once this is done you will have and windows and kali linux VM settup with static ip address that are not connected to your host computer
 
