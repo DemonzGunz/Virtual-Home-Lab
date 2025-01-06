@@ -55,5 +55,12 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
   ![image](https://github.com/user-attachments/assets/2bf50072-cfea-4ba6-ad10-b841a170fcb6)
 
+- Click on settings and go down to network
+- Make sure your on and internal network other wise if you test malware it could potentially infect your host computer
+
+  ![image](https://github.com/user-attachments/assets/1a2f8078-77a4-4c7f-8438-b399a139ebd0)
+
+- 
+
   
 
