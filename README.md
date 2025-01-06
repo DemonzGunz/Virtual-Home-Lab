@@ -121,6 +121,9 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
   ![image](https://github.com/user-attachments/assets/27528cd0-3f3e-4e4e-9d86-c277da644e3f)
 
+- Update make sure to change the network for every single one of you VM's once my kali linux VM was changed to internal internet the issuse was resolved and I could connect.
+
+  ![image](https://github.com/user-attachments/assets/02448b62-d354-4eeb-90df-79e0d02b91eb)
 
 
 - Once this is done you will have and windows and kali linux VM settup with static ip address that are not connected to your host computer
