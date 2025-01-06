@@ -101,7 +101,8 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
  - Change the method to manual click on add
  - Change your ip address and your Netmask then click save
 
-   ![image](https://github.com/user-attachments/assets/ffc0122f-cea4-4f6d-bacf-9c238a8b85df)
+   ![image](https://github.com/user-attachments/assets/3984d38a-1636-437d-a20e-7b3a4a676ccb)
+
 
 - Pull up the terminal and type in ipconfig to check if your ip address is settup
 - I changed mine to 192.168.20.25
