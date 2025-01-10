@@ -16,7 +16,7 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 - VirtualBox
 - Kali Linux
 - Windows 10
-- Splunk
+
 
 # Steps
 - Download vitualbox
@@ -129,9 +129,6 @@ Setting up a home lab to learn linux. Also just incase i want to start malware a
 
 - Once this is done you will have and windows and kali linux VM settup with static ip address that are not connected to your host computer
 
-  # Adding software
-
-  -
 
 
     
